@@ -1,0 +1,85 @@
+* {
+  padding: 0px;
+  box-sizing: border-box;
+  margin: 0px;
+  font-size: 16px;
+  color: rgb(255, 248, 249);
+}
+html {
+  font-family: "Josefin Sans", sans-serif;
+}
+.d1 {
+  padding: 25px;
+  padding-left: 30px;
+}
+
+.wcs {
+  padding-top: 47px;
+}
+
+.h1 {
+  padding-left: 115px;
+  font-size: 1.8rem;
+  font-weight: 350;
+  color: rgb(199, 157, 159);
+}
+
+.h2 {
+  padding-left: 95px;
+  font-size: 1.8rem;
+  color: rgb(62, 53, 54);
+}
+.h3 {
+  padding-left: 115px;
+  font-size: 1.8rem;
+  color: rgb(62, 53, 54);
+}
+
+.p1 {
+  padding-top: 30px;
+  padding-left: 40px;
+  color: rgb(203, 169, 174);
+}
+.p2 {
+  padding-left: 40px;
+  margin-top: 10px;
+  color: rgb(203, 169, 174);
+}
+.p3 {
+  padding-left: 48px;
+  margin-top: 10px;
+  color: rgb(203, 169, 174);
+}
+.p4 {
+  padding-left: 145px;
+  margin-top: 10px;
+  padding-bottom: 50px;
+  color: rgb(203, 169, 174);
+}
+
+.d2 {
+  /* padding-left: 10px; */
+
+  /* padding: 10px; */
+  width: 280px;
+  height: 55px;
+  margin-left: 20px;
+  border-radius: 20px;
+  border-color: rgb(221, 205, 206);
+  position: relative;
+  float: left;
+  color: black;
+}
+
+.button {
+  height: 55px;
+  width: 60px;
+  border-radius: 10px;
+  font-size: 1.2rem;
+
+  position: absolute;
+  /* float: right; */
+  border-color: rgba(110, 100, 100, 0.548);
+  background-color: rgb(240, 155, 154);
+  color: rgb(254, 242, 239);
+}
